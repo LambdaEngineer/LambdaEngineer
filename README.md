@@ -2,7 +2,7 @@
 ### Lead developer of LambdaLatex.
 i know a bit of C++ but i currently suck at it.
 
-My main PC specs are
+My current main PC specs are
 
 Intel i5-10400F, cooled by a Cooler Master Hyper 212 (black edition)
 <br>
