@@ -1,4 +1,6 @@
+### Hi i'm Al and i'm also the
 ### Logics holder of [Logics Hub](https://github.com/HubsLogic)
+### &
 ### Lead developer of [LambdaLatex](https://github.com/LambdaLatex).
 i know a bit of C++ but i currently suck at it.
 
