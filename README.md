@@ -2,11 +2,12 @@
 i know a bit of C++ but i currently suck at it.
 
 # Projects that i work on
-### Changed: Enhanced Edition 
-
+### Changed: Enhanced Edition (LambdaLatex)
+### Beans (Logics Hub)
+### Beans Kiwami Facility (Logics Hub)
 ## (possibly) upcoming projects
-### Thunder Science
-### Multisource
+### Thunder Science (LambdaLatex)
+### Multisource (including remakes of my roblox games, LogicsHub and LambdaLatex)
 
 ## (possibly) abandoned projects
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
