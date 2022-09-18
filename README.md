@@ -3,7 +3,6 @@ i know a bit of C++ but i currently suck at it.
 
 # Projects that i work on
 ### Changed: Enhanced Edition 
-<br>
 
 ## (possibly) upcoming projects
 ### Thunder Science
