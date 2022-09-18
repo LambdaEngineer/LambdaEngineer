@@ -1,10 +1,23 @@
-### Hi i'm Al and i'm also the
-### Logics holder of [Logics Hub](https://github.com/HubsLogic)
-### &
-### Lead developer of [LambdaLatex](https://github.com/LambdaLatex).
+# Hi i'm Al and i'm also the <br> Logics holder of [Logics Hub](https://github.com/HubsLogic) & Lead developer of [LambdaLatex](https://github.com/LambdaLatex).
 i know a bit of C++ but i currently suck at it.
 
-My current main PC specs are
+# Projects that i work on
+### Changed: Enhanced Edition 
+<br>
+
+## (possibly) upcoming projects
+### Thunder Science
+### Multisource
+
+## (possibly) abandoned projects
+[gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
+[gm_bigbeans](https://steamcommunity.com/sharedfiles/filedetails/?id=2051821121)
+<br>
+
+Beans: Source
+Beans: Source Multiplayer (now as Multisource)
+
+# My current main PC specs are
 
 Intel i5-10400F, cooled by a Cooler Master Hyper 212 (black edition)
 <br>
