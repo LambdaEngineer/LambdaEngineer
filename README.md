@@ -1,4 +1,4 @@
-# Hi i'm Al and i'm also the <br> Logics holder of [Logics Hub](https://github.com/HubsLogic) & Lead developer of [Goobrick](https://github.com/Goobrick).
+# Hi i'm Al and i'm also the <br> Logics holder of [Logics Hub](https://github.com/HubsLogic) & Lead developer of [Wiretable](https://github.com/Wiretable).
 i know a bit of C++ but i currently suck at it.
 
 # Projects that i work on
