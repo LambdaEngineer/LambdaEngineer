@@ -2,19 +2,18 @@
 i know a bit of C++ but i currently suck at it.
 
 # Projects that i work on
-### Changed: Enhanced Edition (LambdaLatex)
+### Changed: Enhanced Edition (Wiretable)
 ### Beans (Logics Hub)
 ### Beans Kiwami Facility (Logics Hub)
 ## (possibly) upcoming projects
 ### Thunder Science (LambdaLatex)
-### Multisource (including remakes of my roblox games, Logics Hub and LambdaLatex)
 
 ## (possibly) abandoned projects
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
 ### [gm_bigbeans](https://steamcommunity.com/sharedfiles/filedetails/?id=2051821121)
 ### 4K-Launcher (game launcher and update-inform for Beans: Source's standalone release.) 
 ### Beans: Source
-### Beans: Source Multiplayer (now as Multisource)
+### Beans: Source Multiplayer/Multisource
 ### classical admin place but some stuff has been moved to Beans and also the kiwami facility.
 
 # My current main PC specs are
