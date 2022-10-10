@@ -6,7 +6,8 @@ i know a bit of C++ but i currently suck at it.
 ### Beans (Logics Hub)
 ### Beans Kiwami Facility (Logics Hub)
 ## (possibly) upcoming projects
-### Thunder Science (LambdaLatex)
+### Changed++ (Wiretable)
+### Thunder Science (Wiretable)
 
 ## (possibly) abandoned projects
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
