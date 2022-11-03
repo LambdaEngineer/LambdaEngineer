@@ -2,10 +2,10 @@
 i know a bit of C++ but i currently suck at it.
 
 # Projects that i work on
-### Changed: Enhanced Edition (Wiretable)
+### Changed: Enhanced Edition 
 ## (possibly) upcoming projects
-### Changed++ (Wiretable)
-### Thunder Science (Wiretable)
+### Changed++
+### Thunder Science
 
 ## (possibly) abandoned projects
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
