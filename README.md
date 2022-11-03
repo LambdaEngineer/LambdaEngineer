@@ -14,7 +14,7 @@ i know a bit of C++ but i currently suck at it.
 ### [Beans: Source](https://github.com/LambdaEngineer/beanssrc)
 ### Beans: Source Multiplayer/Multisource
 
-# My current main PC specs are
+# BlackLambda (my current main PC) specs are
 
 Intel i5-10400F, cooled by a Cooler Master Hyper 212 (black edition)
 <br>
@@ -31,3 +31,6 @@ Toshiba PC P300 Hard Drive (SATA HDD, 1TB)
 Cooler Master Master fan MF120, used as a white light to illuminate inside the case.
 <br>
 Corsair 4000D airflow case (black)
+
+# BlueLambda (my Raspberry Pi alternative) specs are
+i am lazy.
