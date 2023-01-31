@@ -18,7 +18,7 @@ i know a bit of C++ but i currently suck at it.
 
 Intel i5-10400F, cooled by a Cooler Master Hyper 212 (black edition)
 <br>
-ASUS ROG STRIX B460F motherboard
+ASUS ROG STRIX B460F motherboard (removed the RGB thingy)
 <br>
 some plain from an old oem pc of mine ram sticks clocked at 2400 MHz, 12GB, i dont recommend these, i'm too broke to get good ones
 <br>
