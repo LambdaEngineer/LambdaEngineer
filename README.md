@@ -24,8 +24,8 @@ some plain from an old oem pc of mine ram sticks clocked at 2400 MHz, 12GB, i do
 <br>
 Samsung 970 Evo Plus (NVMe PCIe 3 (4x speed) 1TB)
 <br>
-Samsung 870 Evo (SATA 3, 250GB)
+Samsung 870 Evo (SATA, 250GB)
 <br>
-Toshiba PC P300 Hard Drive (SATA HDD, 1TB)
+Toshiba PC P300 Hard Drive (SATA, 1TB)
 <br>
 Corsair 4000D airflow case (black)
