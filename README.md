@@ -22,7 +22,7 @@ ASUS ROG STRIX B460F motherboard (removed the RGB thingy)
 <br>
 some plain from an old oem pc of mine ram sticks clocked at 2400 MHz, 12GB, i dont recommend these, i'm too broke to get good ones
 <br>
-Samsung 970 Evo Plus (NVMe PCIe 3 4x 250GB)
+Samsung 970 Evo Plus (NVMe PCIe 3 (4x speed) 1TB)
 <br>
 Samsung 870 Evo (SATA 3, 250GB)
 <br>
