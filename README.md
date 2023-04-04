@@ -1,4 +1,4 @@
-# Hey i am Al who's the Lead developer of [Contaminated Logics](https://github.com/contaminatedlogics).
+# i'm Al aka the Lead developer of [Contaminated Logics](https://github.com/contaminatedlogics).
 i know a bit of C++ but i currently suck at it.
 
 # Projects that i work on
