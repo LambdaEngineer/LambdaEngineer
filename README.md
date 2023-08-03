@@ -4,8 +4,7 @@ i know a bit of C++ but i currently suck at it.
 # Projects that i work on
 ### Changed: Enhanced Edition 
 ## (possibly) upcoming projects
-### Changed++ (2D and 3D)
-### Thunder Science
+### Changed Redux
 
 ## (possibly) abandoned projects
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
