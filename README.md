@@ -1,10 +1,11 @@
 # i'm Al aka the Lead developer of [Contaminated Logics](https://github.com/contaminatedlogics).
-i know a bit of C++ but i currently suck at it.
+i know a bit of C++ and Python but i currently suck at it.
 
 # Projects that i work on
 ### Changed: Enhanced Edition 
-## (possibly) upcoming projects
 ### Changed Redux
+## (possibly) upcoming projects
+### No idea.
 
 ## (possibly) abandoned projects
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
