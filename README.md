@@ -1,5 +1,5 @@
 # i'm Al aka the Lead developer of [Contaminated Logics](https://github.com/contaminatedlogics).
-i know a bit of C++ and Python but i currently suck at it.
+i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 
 # Projects that i work on
 ### Changed: Enhanced Edition 
