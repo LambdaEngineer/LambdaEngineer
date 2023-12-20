@@ -14,7 +14,7 @@ i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 ### [Beans: Source](https://github.com/LambdaEngineer/beanssrc)
 ### Beans: Source Multiplayer/Multisource
 
-# BlackLambda (my current main PC, mostly used in summer) specs are
+# BlackLambda (my current PC for gaming) specs are
 
 Intel i5-10400F, cooled by a Cooler Master Hyper 212 (black edition)
 <br>
@@ -22,7 +22,7 @@ ASUS ROG STRIX B460F motherboard (removed the RGB thingy)
 <br>
 some plain from an old oem pc of mine ram sticks clocked at 2400 MHz, 12GB, i dont recommend these, i'm too broke to get good ones
 <br>
-Samsung 980 Pro (NVMe PCIe 3 (4x speed) 1TB)
+Samsung 970 Evo Plus (NVMe PCIe 3 (4x speed) 250GB)
 <br>
 Samsung 870 Evo (SATA, 500GB)
 <br>
