@@ -7,7 +7,7 @@ i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 ### No idea.
 
 ## (possibly) abandoned projects
-###  Changed: Enhanced Edition (cancelled)
+###  Changed: Enhanced Edition (cancelled, moved to Redux)
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
 ### [gm_bigbeans](https://steamcommunity.com/sharedfiles/filedetails/?id=2051821121)
 ### [4K-Launcher](https://github.com/LambdaEngineer/4K-Game-Launcher) (game launcher and update-inform for Beans: Source's standalone release.) 
