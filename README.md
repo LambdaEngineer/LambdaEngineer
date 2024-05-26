@@ -15,3 +15,6 @@ i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 ### Beans: Source Multiplayer/Multisource
 
 
+# Specs
+## Laptop
+Framework 13 Laptop (Intel i7-1165G7)
