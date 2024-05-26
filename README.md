@@ -16,4 +16,4 @@ i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 
 
 # Specs
-i use a Framework 13 Laptop (Intel i7-1165G7) with 16GB DDR4 3200 MHz RAM and a 1TB Samsung 980 Pro NVme SSD
+i use a Framework 13 Laptop (Intel i7-1165G7) with 16GB DDR4 3200 MHz RAM and a 1TB Samsung 980 Pro NVMe SSD
