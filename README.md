@@ -2,10 +2,11 @@
 i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 
 # Projects that i work on
-### Changed Redux (on Hiatus until Mid August)
+### Changed Redux (on Hiatus until mid August)
 
-## (possibly) abandoned projects
+## (possibly) upcoming projects
 
+## abandoned projects
 
 ###  Changed: Enhanced Edition (cancelled, moved onto Redux)
 ### [gm_beans](https://steamcommunity.com/sharedfiles/filedetails/?id=2045610499)
