@@ -2,7 +2,7 @@
 i know a bit of C++, GDScript and Python but i currently suck at coding kinda.
 
 # Projects that i work on
-### Changed Redux (on Hiatus until mid August)
+### Changed Redux (on hiatus until mid August)
 
 ## (possibly) upcoming projects
 a beat-em up game that takes place in Germany.
