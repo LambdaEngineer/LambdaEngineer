@@ -3,10 +3,10 @@ i know a bit of C++, GDScript and Python but im busy with irl stuff at the momen
 
 # Projects that i work on
 ### Changed Redux (on hiatus until mid August)
-### Project Wiesbaden
+
 
 ## (possibly) upcoming projects
-a beat-em up game that takes place in Germany.
+### Project Wiesbaden (a beat-em up game that takes place in Germany.)
 
 ## abandoned projects
 
