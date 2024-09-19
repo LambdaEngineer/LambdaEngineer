@@ -1,4 +1,4 @@
-# i'm Vinny aka the lead developer of [Contaminated Logics](https://github.com/contaminatedlogics).
+# i'm Max aka the lead developer of [Contaminated Logics](https://github.com/contaminatedlogics).
 i know a bit of C++, GDScript and Python but im busy with irl stuff at the moment.
 
 # Projects that i work on
